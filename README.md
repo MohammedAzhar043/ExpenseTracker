@@ -23,7 +23,7 @@ _screenshots were also added to showing each functionality_
 
 ## 🛠 Tech Used
 - Java 8+
-- Eclipse IDE
+- IntelliJ IDEA Community Edition
 
 ---
 
