@@ -19,7 +19,7 @@ expense,food,2000,2025-05-03
 3. Follow the menu
 
 ## 📸 Screenshots
-_screenshots were also added to showing each functionality_
+_screenshots were also added to showing each functionality in the screenshot folder_
 
 ## 🛠 Tech Used
 - Java 8+
